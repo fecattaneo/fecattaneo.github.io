@@ -14,21 +14,21 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <h3 style="margin:4px;padding:0"> Contact Information </h3>
+        <h3 style="margin:4px;padding:0">Contact Information </h3>
         <p> University of Mannheim <br>
          Department of Economics <br>
          L 7, 3-5 – Room 3.17 (3th floor) <br>
          68161 Mannheim <br>
         </p>
-        <h5> E-mail </h5>
+        <h5 style="margin:2px;padding:0"> E-mail </h5>
         <a href="mailto:franco.esteban.cattaneo@gess.uni-mannheim.de" target="_top">franco.esteban.cattaneo@gess.uni-mannheim.de</a> <br>
-        <h5> Curriculum Vitae </h5>
+        <h5 style="margin:2px;padding:0"> Curriculum Vitae </h5>
         <a>pdf</a>
           
         <p>{{ site.description | default: site.github.project_tagline }}</p>
