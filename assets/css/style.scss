@@ -18,10 +18,15 @@ h2 {
 h3{
     color: rgb(0, 107, 61);
 }
+.spielbox h3 {
+    margin-top:3px;
+    margin-bottom:1px;
+    color:#f00;
+}
 
 h4{
     color: rgb(0, 107, 61);
-    bottom-margin: 1;
+    margin-bottom: 1px;
 }
 
 h4 span {
@@ -30,7 +35,7 @@ h4 span {
 }
 
 h5 {
- bottom-margin: 0; 
+ margin-bottom: 0.5px; 
 }
 
 a {
