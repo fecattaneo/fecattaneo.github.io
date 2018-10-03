@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to my webpage
 
-Blablabla
+I am a Ph.D. candidate in Economics at the University of Mannheim. My research interests are in Empirical Industrial Organization and Applied Microeconomics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Working Papers
 
-### Markdown
+#### Downstream Competition and Exclusive Dealing - Job Market Paper 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+__Abstract__ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse feugiat, justo sed viverra vehicula, nunc est varius est, tincidunt commodo ex sem rutrum leo. Ut a dolor ut dolor accumsan luctus. Mauris ultricies interdum cursus. Donec nulla risus, consequat at orci in, facilisis finibus metus. Sed ac neque vitae orci interdum cursus. Integer ornare velit id porta sodales. Praesent id tortor quis risus pulvinar convallis vitae a enim. Aliquam vitae neque orci. Nunc viverra, nisi vitae congue varius, metus elit luctus leo, ac congue velit eros et neque. Donec ac tortor sed lectus maximus auctor. Proin quis lectus mollis, aliquam ante id, tempor sem. 
 
-```markdown
-Syntax highlighted code block
+### Work in Progress
 
-# Header 1
-## Header 2
-### Header 3
+#### Signal of Entry and Division of Markets 
+with Hidenori Takahashi and Yuya Takahashi 
 
-- Bulleted
-- List
+__Abstract__ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse feugiat, justo sed viverra vehicula, nunc est varius est, tincidunt commodo ex sem rutrum leo. Ut a dolor ut dolor accumsan luctus. Mauris ultricies interdum cursus. Donec nulla risus, consequat at orci in, facilisis finibus metus. Sed ac neque vitae orci interdum cursus. Integer ornare velit id porta sodales. Praesent id tortor quis risus pulvinar convallis vitae a enim. Aliquam vitae neque orci. Nunc viverra, nisi vitae congue varius, metus elit luctus leo, ac congue velit eros et neque. Donec ac tortor sed lectus maximus auctor. Proin quis lectus mollis, aliquam ante id, tempor sem.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fecattaneo/fecattaneo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
