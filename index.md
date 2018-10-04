@@ -18,7 +18,11 @@ I am a Ph.D. candidate in Economics at the University of Mannheim. My research i
 
 ### Teaching
 Spring 2018. Business Economics I (M.Sc. in Management), teaching assistant
+
 Fall 2018. Empirical Industrial Organization (M.Sc.), teaching assistant
+
 Spring 2016-17. Competition Policy and Antitrust Regulation (B.Sc.), teaching assistant
+
 Fall 2015-16. Empirical Industrial Organization (Ph.D.), teaching assistant
+
 Fall 2014. Intermediate Microeconomics (B.Sc.), teaching assistant
