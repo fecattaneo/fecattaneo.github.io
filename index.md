@@ -3,8 +3,11 @@
 I am a Ph.D. candidate in Economics at the University of Mannheim. My research interests are in Empirical Industrial Organization and Applied Microeconomics.
 
 I am on the job market and I will be available for interviews at:  
+<span style="display:block; height: .5mm;"></span>  
 __European Job Market for Economists (EEA)__, Dec 6-7, Naples, Italy  
+<span style="display:block; height: .5mm;"></span>  
 __Simposio de la Asociación Española de Economía (SAEe)__, Dec 13-15, Madrid, Spain  
+<span style="display:block; height: .5mm;"></span>  
 __Allied Social Science Associations (ASSA)__, Jan 4-6, Atlanta, US
 
 ### Working Papers
