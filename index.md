@@ -31,8 +31,8 @@ I am on the job market and I will be available for interviews at:
 
 ### Teaching
 <ul style="list-style-type:disc;padding-left:3mm;margin-top:-4.5mm">
- <li>Spring 2018. Business Economics I (M.Sc. in Management), teaching assistant</li>
- <li>Fall 2018. Empirical Industrial Organization (M.Sc.), teaching assistant</li>
+ <li>Fall 2018. Business Economics I (M.Sc. in Management), teaching assistant</li>
+ <li>Spring 2018. Empirical Industrial Organization (M.Sc.), teaching assistant</li>
  <li>Spring 2016-17. Competition Policy and Antitrust Regulation (B.Sc.), teaching assistant</li>
  <li>Fall 2015-16. Empirical Industrial Organization (Ph.D.), teaching assistant</li>
  <li>Fall 2014. Intermediate Microeconomics (B.Sc.), teaching assistant</li>
