@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Franco Esteban Cattaneo
 logo: esteban.jpg
+plugins:
+- jekyll-seo-tag
