@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: Franco Esteban Cattaneo
+description: Ph.D. Candidate - University of Mannheim
 logo: esteban.jpg
 plugins:
 - jekyll-seo-tag
+url: https://fecattaneo.github.io
