@@ -13,7 +13,7 @@ I am on the job market and I will be available for interviews at:
 
 ### Working Papers
 
-#### [Downstream Competition and Exclusive Dealing]("https://fecattaneo.github.io/JMP_Cattaneo.pdf") <span style="color:black"> - Job Market Paper </span>
+#### [Downstream Competition and Exclusive Dealing](https://fecattaneo.github.io/JMP_Cattaneo.pdf) <span style="color:black"> - Job Market Paper </span>
 
 <p style='text-align: justify;'> <strong> Abstract </strong> I empirically investigate the role of downstream competition in the use of exclusive dealing and quantify its effects in the formation of the car retailing networks. I estimate a model where exclusivity impacts both supply and demand, and dealers choose which brand to offer in a strategic manner. These choices frame product and brand availability in the market and the retail networks for manufacturers. In my model, dealers have incentives to add more brands in order to sell a wider set of products, but their interest to differentiate from local rivals limits this option. Moreover, manufacturers could raise costs anticompetitively to deter dealers from selling products of rival brands. I analyze the potential for this foreclosing channel by estimating fixed cost differences between exclusive and non-exclusive stores using moment inequalities. I find that multi-dealing has an average cost advantage between -€10,000 and €620,000. These numbers indicate that downstream competition, instead of anticompetitive motives, explains a more substantial part of the prevalence of exclusive dealing in the market.
  </p>
